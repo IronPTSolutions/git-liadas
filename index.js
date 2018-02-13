@@ -4,3 +4,4 @@ const M = 2;
 
 
 console.info(`${N} + ${M} = ${math.sum(N, M)}`);
+console.info(`${N} isEven? = ${math.isEven(N)}`);
